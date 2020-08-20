@@ -1537,7 +1537,7 @@ input, select, textarea {
 		box-shadow: inset 0px 0px 0px 1px #12a0bf, 0px 1px 4px 0px rgba(0, 0, 0, 0.1);
 		background-color: #007b9d;
 		height: 86px;
-		text-align: left;
+		text-align: center;
 	}
 
 		#header h1 {
