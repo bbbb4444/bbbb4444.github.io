@@ -1531,7 +1531,7 @@ input, select, textarea {
 		box-sizing: content-box;
 		position: relative;
 		margin: 2.5% 0 2.5% 0;
-		padding: 0 40px 0 40px;
+		padding: 0 0px 0 40px;
 		border-radius: 10px;
 		border: solid 1px #006e8b;
 		box-shadow: inset 0px 0px 0px 1px #12a0bf, 0px 1px 4px 0px rgba(0, 0, 0, 0.1);
